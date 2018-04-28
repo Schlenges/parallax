@@ -1,2 +1,2 @@
 # Parallax Website #
-A simple website with a CSS parallax scrolling effect
+A simple website making use of a parallax scrolling effect created with CSS
