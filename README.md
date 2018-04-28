@@ -1,2 +1,2 @@
 # Parallax Website #
-Trying out parallax on a simple one page website
+A simple website with a CSS parallax scrolling effect
